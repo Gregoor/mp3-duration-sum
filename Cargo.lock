@@ -169,7 +169,7 @@ dependencies = [
 
 [[package]]
 name = "mp3-duration-sum"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "mp3-duration 0.1.4 (registry+https://github.com/rust-lang/crates.io-index)",
  "rayon 1.0.3 (registry+https://github.com/rust-lang/crates.io-index)",
