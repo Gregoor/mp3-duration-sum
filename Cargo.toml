@@ -3,6 +3,8 @@ name = "mp3-duration-sum"
 version = "0.1.0"
 authors = ["Gregor Weber <gregorwbr@gmail.com>"]
 edition = "2018"
+license = "MIT"
+categories = ["command-line-utilities"]
 
 [dependencies]
 mp3-duration = "0.1"
