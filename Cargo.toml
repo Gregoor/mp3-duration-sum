@@ -1,6 +1,7 @@
 [package]
 name = "mp3-duration-sum"
 description = "Parallelized counting of duration of all `.mp3` files in the given directory"
+repository = "https://github.com/Gregoor/mp3-duration-sum"
 version = "0.1.0"
 authors = ["Gregor Weber <gregorwbr@gmail.com>"]
 edition = "2018"
